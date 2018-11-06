@@ -5,7 +5,8 @@
     <p> When I have auto save on. Let's see if its a problem </p>
   </div>
   <div class="body">
-    This is another DIV Oh yes. And then another change
+    This is another DIV Oh yes. And then another change.
+    Let's see if we can change directly from GitHub.
   </div>
   </div>
 </template>
