@@ -4,7 +4,7 @@
   <div>
   <div class="MKTest enjoy-css">
     <h1>MKTest</h1>
-    <p> If you see this in the browser xxx then I have successfully created a new view </p>
+    <p> If you see this in the xxx browser xxx then I have successfully created a new view </p>
   </div>
   </div>
 </template>
