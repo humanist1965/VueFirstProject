@@ -5,7 +5,7 @@
     <p> When I have auto save on. Let's see if its a problem </p>
   </div>
   <div class="body">
-    This is another DIV
+    This is another DIV Oh yes
   </div>
   </div>
 </template>
